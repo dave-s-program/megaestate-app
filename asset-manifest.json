@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/megaestate-app/static/css/main.00655226.css",
+    "main.js": "/megaestate-app/static/js/main.41bd4771.js",
+    "index.html": "/megaestate-app/index.html",
+    "main.00655226.css.map": "/megaestate-app/static/css/main.00655226.css.map",
+    "main.41bd4771.js.map": "/megaestate-app/static/js/main.41bd4771.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.00655226.css",
+    "static/js/main.41bd4771.js"
+  ]
+}
