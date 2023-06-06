@@ -1,0 +1,38 @@
+.parent-container {
+  display: flex;
+  flex-direction: column;
+  height: 60vh; /* Set a specific height for the parent container, e.g., 100vh for full viewport height */
+}
+
+.navigation button.active {
+  background-color: #e0e0e0;
+  color: #000;
+  border-radius: 5px;
+}
+
+.dummy-list-type {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  flex-grow: 1;
+}
+
+.dummy-item-type {
+  width: 60%;
+  margin: 20px;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  text-align: center;
+}
+
+.placeholder-image-type {
+  background-color: lightcyan;
+  height: 400px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: Arial;
+  font-size: 24px;
+  color: #000;
+}

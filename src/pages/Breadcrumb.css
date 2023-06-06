@@ -1,0 +1,39 @@
+.breadcrumb {
+  background-color: white;
+  padding: 10px;
+}
+
+.breadcrumb ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.breadcrumb li {
+  display: inline-block;
+  margin-right: 5px;
+}
+
+.breadcrumb li:last-child {
+  margin-right: 0;
+}
+
+.breadcrumb a {
+  text-decoration: none;
+  color: #333;
+  padding: 5px 10px;
+  border-radius: 3px;
+}
+
+.breadcrumb a:hover {
+  background-color: #ddd;
+}
+
+.breadcrumb .separator {
+  margin: 0 5px;
+  color: #999;
+}
+
+.breadcrumb .active {
+  color: #777;
+}
